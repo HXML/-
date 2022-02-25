@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB",
+    "WenQuanYi Micro Hei", "Microsoft Yahei", sans-serif;
+}
+
+html,
+body {
+  /*height                   : 100%;*/
+  font-size: 62.5%;
+  /*overflow                 : hidden;*/
+  // background-color        : #fbf9fe;
+  -webkit-text-size-adjust: none; // 全局字体可设置小于12px
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); // 禁止ios点击元素的背景
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+.boxShadow {
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px 0px #e8e8e8;
+}
+.bd {
+  border: 1px solid;
+}
+.pointer_None {
+  //无法点击
+  pointer-events: none;
+}
+
+.bdb {
+  border-bottom: 1px solid #ebebeb;
+
+}
+
+.ovOne_200 {
+  width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.warpOver_200 {
+  //文字超出换行
+  width: 200px;
+  word-wrap: break-word;
+}
+
+.ovh {
+  overflow: hidden;
+}
+
+.h100pc {
+  height: 100%;
+}
+
+.w100pc {
+  width: 100%;
+}
+
+.dsn {
+  display: none;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.rel {
+  position: relative;
+}
+
+.abs {
+  position: absolute;
+}
+
+.tac {
+  text-align: center;
+}
+
+.lh15 {
+  line-height: 1.5;
+}
+
+.lh30 {
+  line-height: 30px;
+}
+
+/* 颜色 */
+.f999 {
+  color: #999;
+}
+
+.fff {
+  color: #ffffff;
+}
+
+/* 背景颜色 */
+
+.bg-green {
+  background: green;
+}
+
+.bg-gray {
+  background: gray;
+}
+
+.bg-fff {
+  background: #ffffff;
+}

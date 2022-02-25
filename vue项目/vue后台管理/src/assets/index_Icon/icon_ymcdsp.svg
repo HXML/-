@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>shanghu_home_icon5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="50" height="50" rx="10"></rect>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.994084013   0 0 0 0 0.783778987   0 0 0 0 0.135625791  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="商户后台首页2-交互稿备份-2" transform="translate(-565.000000, -657.000000)">
+            <g id="shanghu_home_icon5" transform="translate(569.000000, 659.000000)">
+                <g id="矩形备份-5">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F4B900" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="cart_empty" transform="translate(11.000000, 12.000000)" fill="#FFFBEF" fill-rule="nonzero">
+                    <path d="M9.31528662,20.7006369 C8.5755392,20.7008218 7.89208302,21.0956432 7.52236943,21.7363757 C7.15265583,22.3771082 7.15285311,23.1664093 7.52288694,23.8069569 C7.89292078,24.4475046 8.57657423,24.8419843 9.31632166,24.8417994 C10.4598721,24.8415135 11.3866711,23.9142511 11.3863854,22.7707006 C11.3860995,21.6271502 10.458837,20.7003511 9.31528662,20.7006369 M19.6656051,20.7006369 C18.9258577,20.7008218 18.2424015,21.0956432 17.8726879,21.7363757 C17.5029743,22.3771082 17.5031716,23.1664093 17.8732054,23.8069569 C18.2432393,24.4475046 18.9268927,24.8419843 19.6666401,24.8417994 C20.8101905,24.8415135 21.7369896,23.9142511 21.7367039,22.7707006 C21.736418,21.6271502 20.8091555,20.7003511 19.6656051,20.7006369 M7.00820064,12.4203822 L5.34386943,6.21019108 L23.4879777,6.21019108 L21.8236465,12.4203822 L7.00820064,12.4203822 Z M25.8768312,5.17515924 C25.8768312,4.60352693 25.4134317,4.14012739 24.8417994,4.14012739 L4.78909236,4.14012739 L3.68160828,0 L0,0 L0,2.07006369 L2.09179936,2.07006369 L6.80533439,19.6656051 L22.7707006,19.6656051 L22.7707006,17.5955414 L8.39410828,17.5955414 L7.56401274,14.4904459 L23.4124204,14.4904459 L23.8057325,13.0227707 L25.8757962,5.29625796 L25.8509554,5.29004777 C25.8571656,5.25071656 25.8757962,5.21656051 25.8757962,5.17515924 L25.8768312,5.17515924 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

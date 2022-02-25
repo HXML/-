@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>shanghu_home_icon2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="50" height="50" rx="10"></rect>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.178648944   0 0 0 0 0.480498205   0 0 0 0 0.965749547  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="商户后台首页2-无数据稿" transform="translate(-774.000000, -501.000000)">
+            <g id="shanghu_home_icon2" transform="translate(778.000000, 503.000000)">
+                <g id="矩形备份-8" opacity="0.7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#347EF7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="credits" transform="translate(12.000000, 12.000000)" fill="#E6F0FF" fill-rule="nonzero">
+                    <path d="M13,22.676202 L2.16666667,12.1711515 L2.16666667,5.68743434 L5.86516667,2.1010101 L20.1348333,2.1010101 L23.8333333,5.68743434 L23.8333333,12.1711515 L13,22.676202 Z M25.6825833,4.50981818 L21.34925,0.30779798 C21.1465406,0.110185747 20.8707704,-0.000637669967 20.5833333,-2.73666483e-06 L5.41666667,-2.73666483e-06 C5.12907305,-0.000359827361 4.85328065,0.110850789 4.65075,0.308848485 L0.317416667,4.50981818 C0.113934603,4.70658334 -0.00029685528,4.97386771 -5.771376e-07,5.25252525 L-5.771376e-07,12.6060606 C-5.771376e-07,12.896 0.121333333,13.1586263 0.317416667,13.3498182 L12.2340833,24.9043232 C12.4368131,25.102038 12.7124729,25.2132083 12.9999994,25.2132083 C13.2875271,25.2132083 13.5631869,25.102038 13.7659167,24.9043232 L25.6825833,13.3487677 C25.8786667,13.1586263 25.9999994,12.896 25.9999994,12.6060606 L25.9999994,5.25252525 C26.0002969,4.97386771 25.8860654,4.70658334 25.6825833,4.50981818 Z" id="形状"></path>
+                    <polygon id="路径" points="6.5 8.4040404 19.5 8.4040404 19.5 6.3030303 6.5 6.3030303"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

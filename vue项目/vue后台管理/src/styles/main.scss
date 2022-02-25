@@ -1,0 +1,82 @@
+$button-bg-color: #f9f9f9; //按钮底色：f9f9f9
+$button-border-color: #B1B6C3; //按钮的描边色
+$main-color: #0D69C5; //主色：#0D69C5
+
+$fontAColor:#7D828F; // 
+$fontBColor:#E46D0C; // 
+$fontCColor:#E02020; //
+$fontDColor:#4A5060; //
+$fontEColor:#B1B6C3; //// 文字辅色2：#B1B6C3
+
+$mainFontColor:#212121;
+
+// 辅色：#FFA940
+// 文字主色：#212121
+.mainFontColor {
+    color: $mainFontColor;
+}
+
+.mainColor {
+    color: $main-color
+}
+
+.fontAColor {
+    color: $fontAColor
+}
+
+.fontBColor {
+    color: $fontBColor
+}
+
+.fontCColor {
+    color: $fontCColor
+}
+
+.fontDColor {
+    color: $fontDColor
+}
+
+.fontEColor {
+    color: $fontEColor
+}
+
+.f10 {
+    //10px         提示文字/
+    font-size: 10px;
+}
+
+.f12 {
+    //12px      正文1/
+    font-size: 12px;
+}
+
+
+
+.f14 {
+    //正文标题
+    font-size: 14px;
+}
+
+.f16 {
+    //按钮文字
+    font-size: 16px;
+}
+
+.f20 {
+    //按钮文字
+    font-size: 20px;
+}
+
+.f24 {
+    font-size: 24px;
+}
+
+.f26 {
+    //按钮文字
+    font-size: 26px;
+}
+
+.f18 {
+    //侧边栏标题文字
+    font-size: 18px;
+}

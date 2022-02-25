@@ -1,0 +1,7 @@
+// @import './element-ui.scss';
+@import './main.scss';
+@import './custom.scss';
+@import './spaceCustom.scss';
+.router-link-exact-active{
+    pointer-events: none;//侧边栏的高亮 不能点击事件
+}

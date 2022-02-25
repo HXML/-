@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>shanghu_home_icon6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="50" height="50" rx="10"></rect>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.178648944   0 0 0 0 0.480498205   0 0 0 0 0.965749547  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="商户后台首页2-无数据稿" transform="translate(-774.000000, -657.000000)">
+            <g id="shanghu_home_icon6" transform="translate(778.000000, 659.000000)">
+                <g id="矩形备份-16" opacity="0.7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#347EF7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="编组" transform="translate(13.000000, 12.000000)" fill="#E6F0FF">
+                    <path d="M5.3125,17.7666667 L13.8125,17.7666667 L13.8125,15.6 L5.3125,15.6 L5.3125,17.7666667 Z M5.3125,13.4333333 L13.8125,13.4333333 L13.8125,11.2666667 L5.3125,11.2666667 L5.3125,13.4333333 Z M5.3125,9.1 L18.0625,9.1 L18.0625,6.93333333 L5.3125,6.93333333 L5.3125,9.1 Z" id="Fill-1"></path>
+                    <path d="M18.0625,2.16666667 L21.25,2.16666667 L21.25,23.8333333 L2.125,23.8333333 L2.125,2.16666667 L5.3125,2.16666667 L13.87047,2.16666667 M13.87047,0 L5.3125,0 L1.0625,0 C0.425,0 0,0.433333333 0,1.08333333 L0,24.9166667 C0,25.5666667 0.425,26 1.0625,26 L22.3125,26 C22.95,26 23.375,25.5666667 23.375,24.9166667 L23.375,1.08333333 C23.375,0.433333333 22.95,0 22.3125,0 L18.0625,0" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
